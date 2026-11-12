@@ -7,8 +7,6 @@ Last release verification: 12 November 2026.
 
 ## Release Status
 
-Status: Quality gate passed. All 87 approved release files are staged locally for the initial commit. The package has not yet been committed, pushed to GitHub, or assigned a verified public URL.
-
 It supports inspection of the analysis logic and traceability of released aggregate results. It does not support independent full-data reproduction and contains no Banjarbaru source data, manual-audit records, row-level predictions, checkpoints, model binaries, or private run artifacts.
 
 ## Hash Interpretation
