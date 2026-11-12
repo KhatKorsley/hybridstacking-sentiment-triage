@@ -1,0 +1,11 @@
+reference_target,contrast_id,contrast,seeds,mean_delta_accuracy_a_minus_b,sample_sd_delta_accuracy_a_minus_b,seeds_a_higher,seeds_b_higher,seeds_tied,minimum_holm_adjusted_pvalue,any_holm_rejection
+locked_test_silver,K1,WA (SVM+BERT) versus SVM,"42,52,62",0.024459613196814566,0.007647514027160838,3,0,0,0.0023746801462748808,True
+locked_test_silver,K2,WA (SVM+BERT) versus IndoBERT,"42,52,62",0.022753128555176336,0.007155714235158774,3,0,0,0.0005068445474721572,True
+locked_test_silver,K3,IndoBERT versus SVM,"42,52,62",0.0017064846416382253,0.006664035559647316,2,1,0,1.0,False
+locked_test_silver,K4,Calibrated XGBoost versus WA (SVM+BERT),"42,52,62",-0.0008532423208191124,0.009385665529010238,1,2,0,0.6228321330246445,False
+locked_test_silver,K5,Calibrated XGBoost versus XGBoost,"42,52,62",0.04522184300341297,0.007389295254133437,3,0,0,8.702960984614474e-08,True
+human_audit_manual,K1,WA (SVM+BERT) versus SVM,"42,52,62",0.025555555555555557,0.005091750772173155,3,0,0,1.0,False
+human_audit_manual,K2,WA (SVM+BERT) versus IndoBERT,"42,52,62",0.0011111111111111111,0.00838870492807861,1,1,1,1.0,False
+human_audit_manual,K3,IndoBERT versus SVM,"42,52,62",0.024444444444444446,0.010715167512214395,3,0,0,1.0,False
+human_audit_manual,K4,Calibrated XGBoost versus WA (SVM+BERT),"42,52,62",-0.0044444444444444444,0.013877773329774218,1,1,1,1.0,False
+human_audit_manual,K5,Calibrated XGBoost versus XGBoost,"42,52,62",0.051111111111111114,0.0038490017945975057,3,0,0,0.02315819263458252,True

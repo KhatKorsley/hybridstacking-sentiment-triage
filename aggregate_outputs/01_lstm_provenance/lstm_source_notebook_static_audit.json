@@ -1,0 +1,9 @@
+﻿{
+    "release_note":  "Restricted release copy. Internal source path, output location, and source hash are intentionally omitted.",
+    "source_notebook_role":  "Archived LSTM silver-labelling workflow represented by the release inspection notebook.",
+    "smsa_loaded_in_source":  true,
+    "smsa_test_split_loaded_in_source":  true,
+    "explicit_smsa_test_loader_found":  false,
+    "shallow_best_state_copy_pattern_found":  true,
+    "historical_inference_has_max_len_truncation":  false
+}

@@ -1,0 +1,21 @@
+place_type,validation,locked_test,total_n,coverage_status
+Restoran,78,53,131,shared
+Kantor Perusahaan,49,56,105,shared
+Toko,40,26,66,shared
+Kedai Kopi,29,33,62,shared
+Masjid,28,24,52,shared
+Komplek perumahan,24,23,47,shared
+Kafe,28,17,45,shared
+Minimarket,26,17,43,shared
+Jenis tempat tidak ditemukan,16,18,34,shared
+Bengkel Sepeda Motor,14,15,29,shared
+Toko bahan makanan,10,19,29,shared
+Bengkel Mobil,18,10,28,shared
+Perumahan,13,14,27,shared
+Toko Bahan Bangunan,15,11,26,shared
+Kedai Sarapan & Makan Siang,14,11,25,shared
+Kantor Pemerintah,14,10,24,shared
+Toko Pakaian,8,15,23,shared
+Pusat Perbelanjaan,6,16,22,shared
+Tempat Cukur Rambut,11,11,22,shared
+Toko Elektronik,11,11,22,shared

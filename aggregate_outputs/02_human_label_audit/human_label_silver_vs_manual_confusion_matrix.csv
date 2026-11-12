@@ -1,0 +1,10 @@
+﻿true_manual_label,lstm_silver_label,n_reviews
+negatif,negatif,48
+negatif,netral,20
+negatif,positif,3
+netral,negatif,27
+netral,netral,36
+netral,positif,9
+positif,negatif,25
+positif,netral,44
+positif,positif,88

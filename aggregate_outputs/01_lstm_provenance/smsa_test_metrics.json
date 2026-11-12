@@ -1,0 +1,22 @@
+{
+  "evaluation_scope": "SmSA held-out test split only",
+  "n_test": 500,
+  "accuracy": 0.792,
+  "macro_f1": 0.7293960899475215,
+  "weighted_f1": 0.7781391630638713,
+  "class_order": [
+    "positif",
+    "netral",
+    "negatif"
+  ],
+  "true_label_distribution": {
+    "positif": 208,
+    "netral": 88,
+    "negatif": 204
+  },
+  "predicted_label_distribution": {
+    "positif": 202,
+    "netral": 42,
+    "negatif": 256
+  }
+}

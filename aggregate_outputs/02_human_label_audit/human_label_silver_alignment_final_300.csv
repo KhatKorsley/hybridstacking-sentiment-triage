@@ -1,0 +1,2 @@
+﻿comparison,n_audit,sampling_design,accuracy_unweighted,macro_f1_unweighted,accuracy_design_weighted,macro_f1_design_weighted
+LSTM silver label versus final manual label,300,100 reviews per LSTM silver-label stratum,0.5733333333333334,0.5549443542194853,0.6913651877133106,0.5716623477818413

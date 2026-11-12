@@ -1,0 +1,492 @@
+place_type,validation,locked_test,total_n,coverage_status
+Restoran,78,53,131,shared
+Kantor Perusahaan,49,56,105,shared
+Toko,40,26,66,shared
+Kedai Kopi,29,33,62,shared
+Masjid,28,24,52,shared
+Komplek perumahan,24,23,47,shared
+Kafe,28,17,45,shared
+Minimarket,26,17,43,shared
+Jenis tempat tidak ditemukan,16,18,34,shared
+Bengkel Sepeda Motor,14,15,29,shared
+Toko bahan makanan,10,19,29,shared
+Bengkel Mobil,18,10,28,shared
+Perumahan,13,14,27,shared
+Toko Bahan Bangunan,15,11,26,shared
+Kedai Sarapan & Makan Siang,14,11,25,shared
+Kantor Pemerintah,14,10,24,shared
+Toko Pakaian,8,15,23,shared
+Pusat Perbelanjaan,6,16,22,shared
+Tempat Cukur Rambut,11,11,22,shared
+Toko Elektronik,11,11,22,shared
+Toko Roti,9,13,22,shared
+Toko Ponsel,10,11,21,shared
+Sekolah,11,9,20,shared
+Restoran Bakso,12,7,19,shared
+Restoran Indonesia,9,10,19,shared
+Rumah Makan,10,9,19,shared
+Tempat Pencucian Mobil,10,9,19,shared
+Salon Kecantikan,8,10,18,shared
+Sekolah Dasar,10,8,18,shared
+Apotek,8,9,17,shared
+Toko Perlengkapan Rumah,7,10,17,shared
+Toko Kue,6,10,16,shared
+Layanan Transportasi,10,5,15,shared
+Penginapan,7,8,15,shared
+Penjahit,6,9,15,shared
+Pondok,10,5,15,shared
+Rumah wisata,9,6,15,shared
+Agen Sewa Mobil,5,9,14,shared
+Hostel,6,8,14,shared
+Rumah Pondokan,6,8,14,shared
+Taman,7,7,14,shared
+Toko Swalayan,6,8,14,shared
+Hotel jangka panjang,8,5,13,shared
+Toko Makanan,6,7,13,shared
+Hotel,6,6,12,shared
+Layanan Binatu,9,3,12,shared
+Restoran Nasi Goreng,7,5,12,shared
+Toko Bunga,3,9,12,shared
+Otoritas Perumahan,8,3,11,shared
+Toko Kosmetik,7,4,11,shared
+Toko Percetakan,7,4,11,shared
+Dapur Umum,4,6,10,shared
+Gudang,3,7,10,shared
+Kedai Sarapan,4,6,10,shared
+Pembangunan Perumahan,8,2,10,shared
+Pusat Pendidikan,5,5,10,shared
+Restoran Cepat Saji,4,6,10,shared
+Restoran Seafood,2,7,9,shared
+Pemakaman,6,2,8,shared
+Produsen,4,4,8,shared
+Restoran Masakan Ayam,3,5,8,shared
+Restoran Mie,4,4,8,shared
+Restoran Sate,1,7,8,shared
+Toko makanan beku,4,4,8,shared
+Toko umum,5,3,8,shared
+Tujuan Wisata,3,5,8,shared
+Warung nasi,4,4,8,shared
+Biro Perjalanan dan Wisata,5,2,7,shared
+Kompleks Townhouse,5,2,7,shared
+Pom bensin/SPBU,4,3,7,shared
+Taman Kanak-kanak,4,3,7,shared
+Tempat Ibadah,3,4,7,shared
+Vila,4,3,7,shared
+Asosiasi/organisasi,2,4,6,shared
+Asrama Pelajar,3,3,6,shared
+Binatu,3,3,6,shared
+Restoran Bubur,3,3,6,shared
+Restoran Padang,3,3,6,shared
+Salon Rambut,2,4,6,shared
+Sekolah Agama,4,2,6,shared
+Sekolah Menengah Pertama,3,3,6,shared
+Toko Mainan,3,3,6,shared
+Toko Mebel,2,4,6,shared
+Universitas,4,2,6,shared
+ATM,2,3,5,shared
+Bank,3,2,5,shared
+Bidan,1,4,5,shared
+Guest house,0,5,5,locked_test_only
+Jasa Konstruksi dan Bangunan,1,4,5,shared
+Kantor Pos,3,2,5,shared
+Kedai Hidangan Penutup,2,3,5,shared
+Kedai Jus,2,3,5,shared
+Kelompok Bermain,4,1,5,shared
+Kios,2,3,5,shared
+Klinik Kesehatan,1,4,5,shared
+Klub Olahraga,4,1,5,shared
+Lapangan Bulutangkis,2,3,5,shared
+Musala,3,2,5,shared
+Restoran Jawa,4,1,5,shared
+Restoran Prasmanan,0,5,5,locked_test_only
+Restoran soto,3,2,5,shared
+Tempat Religius,4,1,5,shared
+Toko Alat Pancing,1,4,5,shared
+Toko Es Krim,4,1,5,shared
+Toko Fotokopi,0,5,5,locked_test_only
+Toko Ikan,1,4,5,shared
+Toko Kesehatan dan Kecantikan,3,2,5,shared
+Toko Komputer,0,5,5,locked_test_only
+Toko Pakaian Wanita,3,2,5,shared
+Toko Suvenir,3,2,5,shared
+Tukang Pijat Refleksi,4,1,5,shared
+Ahli tembakau,4,0,4,validation_only
+Grosir,3,1,4,shared
+Institusi Pendidikan,2,2,4,shared
+Jasa Bordir,1,3,4,shared
+Jasa Pengiriman,3,1,4,shared
+Jasa Pengiriman Kargo,1,3,4,shared
+Kantor Pemerintah Kota,1,3,4,shared
+Kantor Pemerintahan Kota,3,1,4,shared
+Layanan Rental Alat,2,2,4,shared
+Notaris,1,3,4,shared
+Pasar,2,2,4,shared
+Pemasok Air Minum Dalam Kemasan,3,1,4,shared
+Pembibitan Tanaman,2,2,4,shared
+Peternakan,1,3,4,shared
+Pusat Kesehatan Masyarakat,2,2,4,shared
+Restoran Hamburger,2,2,4,shared
+Restoran Soto Ayam,1,3,4,shared
+Sekolah menengah,2,2,4,shared
+Servis Komputer,2,2,4,shared
+Studio Fotografi,3,1,4,shared
+Taman bermain,3,1,4,shared
+Tempat Fitness,1,3,4,shared
+Toko Optik,0,4,4,locked_test_only
+Toko Suku Cadang Mobil,2,2,4,shared
+Universitas Negeri,1,3,4,shared
+Warung Makanan Kecil,1,3,4,shared
+Area Mendaki,1,2,3,shared
+Balai masyarakat,1,2,3,shared
+Bangunan Bersejarah,1,2,3,shared
+Bengkel Bongkar Pasang Mesin,1,2,3,shared
+Bengkel Logam,1,2,3,shared
+Dokter Hewan,1,2,3,shared
+Fakultas,2,1,3,shared
+Jasa Pernikahan,1,2,3,shared
+Kantor Pemerintahan Wilayah,2,1,3,shared
+Katering,2,1,3,shared
+Kebun Buah,0,3,3,locked_test_only
+Kedai Teh,1,2,3,shared
+Kompleks Apartemen,3,0,3,validation_only
+Layanan Sewa Tenda,1,2,3,shared
+Lembaga Keuangan,0,3,3,locked_test_only
+Motel,2,1,3,shared
+Pemasok Produk Makanan,1,2,3,shared
+Pemasok peralatan binatu yang dioperasikan dengan koin,1,2,3,shared
+Penjahit Pesanan Khusus,3,0,3,validation_only
+Percetakan Komersial,1,2,3,shared
+Pertanian,1,2,3,shared
+Perusahaan Ekspedisi,1,2,3,shared
+Perusahaan Konstruksi,2,1,3,shared
+Produsen makanan,2,1,3,shared
+Restoran Jawa Tengah,1,2,3,shared
+Restoran Jawa Timur,1,2,3,shared
+Restoran Jepang,2,1,3,shared
+Restoran Martabak,2,1,3,shared
+Restoran Sunda,3,0,3,validation_only
+Restoran seblak,2,1,3,shared
+Rumah Sakit,1,2,3,shared
+Tempat Parkir,2,1,3,shared
+Terapis Pijat,2,1,3,shared
+Toko Alat Tulis,0,3,3,locked_test_only
+Toko Alat Tulis Kantor,1,2,3,shared
+Toko Ban,2,1,3,shared
+Toko Beras,2,1,3,shared
+Toko Buah dan Sayuran,3,0,3,validation_only
+Toko Perhiasan,2,1,3,shared
+Toko Sepatu,3,0,3,validation_only
+Toko Tas,1,2,3,shared
+Toserba,2,1,3,shared
+Tukang Jahit,2,1,3,shared
+Yayasan,1,2,3,shared
+Agen Gas Elpiji,2,0,2,validation_only
+Agen Rental Crane,1,1,2,shared
+Apartemen sewa liburan,2,0,2,validation_only
+Bengkel AC,1,1,2,shared
+Bengkel Ganti Oli,1,1,2,shared
+Bengkel Mesin Diesel,1,1,2,shared
+Butik,1,1,2,shared
+Dealer Sepeda Motor,2,0,2,validation_only
+Dealer mobil,1,1,2,shared
+Dokter,2,0,2,validation_only
+Dokter Kandungan,1,1,2,shared
+Fotografer,0,2,2,locked_test_only
+Fotografer Pernikahan,1,1,2,shared
+Gardu Induk Listrik,2,0,2,validation_only
+Gedung Apartemen,1,1,2,shared
+Gedung Pertemuan,0,2,2,locked_test_only
+Gereja,1,1,2,shared
+Gereja Protestan,1,1,2,shared
+Jasa Kurir,1,1,2,shared
+Jasa fotografi,1,1,2,shared
+Jasa pengiriman mobil,1,1,2,shared
+Kantor Administrasi Kota,1,1,2,shared
+Kantor Pemda,1,1,2,shared
+Kompleks Kondominium,0,2,2,locked_test_only
+Kontraktor HVAC,2,0,2,validation_only
+Lapangan bola basket,1,1,2,shared
+Organisasi Keagamaan,1,1,2,shared
+Organisasi Pelayanan Sosial,0,2,2,locked_test_only
+Organisasi Pemuda,1,1,2,shared
+Panti Asuhan,1,1,2,shared
+Pasar tradisional,1,1,2,shared
+Pemasok makanan dan minuman katering,1,1,2,shared
+Pengacara,1,1,2,shared
+Penginapan Dalam Ruangan,1,1,2,shared
+Perias,2,0,2,validation_only
+Perkebunan Pohon,1,1,2,shared
+Perusahaan Media,2,0,2,validation_only
+Pujasera,1,1,2,shared
+Pusat Belajar,2,0,2,validation_only
+Pusat Bisnis,1,1,2,shared
+Rental Bus,2,0,2,validation_only
+Restoran Barbeque,1,1,2,shared
+Restoran Ikan Bakar,1,1,2,shared
+Restoran Pizza,2,0,2,validation_only
+Restoran Ramen,1,1,2,shared
+Restoran Steak,1,1,2,shared
+Restoran Sulawesi Selatan,1,1,2,shared
+Restoran Tahu,1,1,2,shared
+Restoran roti bakar,0,2,2,locked_test_only
+Rumah Kayu,1,1,2,shared
+Sekolah pendidikan umum,1,1,2,shared
+Studio Foto,1,1,2,shared
+Taman Hiburan,1,1,2,shared
+Tempat Ziarah,0,2,2,locked_test_only
+Terapis Fisik,1,1,2,shared
+Toko AC,1,1,2,shared
+Toko Aki Mobil,0,2,2,locked_test_only
+Toko Alat-Alat,1,1,2,shared
+Toko Buah dan Sayur,1,1,2,shared
+Toko Buku,0,2,2,locked_test_only
+Toko Donat,0,2,2,locked_test_only
+Toko Herbal,0,2,2,locked_test_only
+Toko Hewan Peliharaan,0,2,2,locked_test_only
+Toko Kamera,1,1,2,shared
+Toko Kebab,1,1,2,shared
+Toko Makanan Sehat,2,0,2,validation_only
+Toko Pakaian Anak,1,1,2,shared
+Toko Pakan Hewan,2,0,2,validation_only
+Toko Perlengkapan Olahraga,1,1,2,shared
+Toko Suku Cadang Motor,0,2,2,locked_test_only
+Toko Tas Tangan,2,0,2,validation_only
+Toko ikan mas hias,0,2,2,locked_test_only
+Tukang Las,2,0,2,validation_only
+Agen Penyewaan Apartemen,1,0,1,validation_only
+Agen Properti,0,1,1,locked_test_only
+Agen Tiket,0,1,1,locked_test_only
+Agen real estat,0,1,1,locked_test_only
+Agensi wisata olahraga,0,1,1,locked_test_only
+Ahli Kacamata,0,1,1,locked_test_only
+Asosiasi Notaris,1,0,1,validation_only
+Auditorium,1,0,1,validation_only
+Aula Pramuka,0,1,1,locked_test_only
+Balai Kota,0,1,1,locked_test_only
+Bank koperasi,0,1,1,locked_test_only
+Bed & Breakfast,1,0,1,validation_only
+Bengkel Bubut,1,0,1,validation_only
+Bengkel Elektronik,1,0,1,validation_only
+Bengkel Fiberglass,1,0,1,validation_only
+Bengkel Jok Kursi Mobil,1,0,1,validation_only
+Bengkel Kaca Mobil,0,1,1,locked_test_only
+Bengkel Kelistrikan Mobil,0,1,1,locked_test_only
+Bengkel Mesin,0,1,1,locked_test_only
+Bengkel Motor Skuter,0,1,1,locked_test_only
+Bengkel Per Mobil,0,1,1,locked_test_only
+Bengkel Perawatan Bodi Mobil,1,0,1,validation_only
+Bengkel Perbaikan Bodi Mobil,1,0,1,validation_only
+Bengkel Radiator,0,1,1,locked_test_only
+Bengkel Tune Up,0,1,1,locked_test_only
+Bengkel tambal ban,0,1,1,locked_test_only
+Bilik Telepon Umum,1,0,1,validation_only
+Binatu Cucian Kering,1,0,1,validation_only
+Biro Iklan,1,0,1,validation_only
+Biro Wisata,1,0,1,validation_only
+Bistro,0,1,1,locked_test_only
+Dealer Honda,1,0,1,validation_only
+Dealer Mobil Rumah,0,1,1,locked_test_only
+Dealer Toyota,0,1,1,locked_test_only
+Dekorator interior,0,1,1,locked_test_only
+Desainer interior,0,1,1,locked_test_only
+Dinas Pariwisata Kota,1,0,1,validation_only
+Distributor Baja,1,0,1,validation_only
+Dokter Anak,0,1,1,locked_test_only
+Dokter Umum,0,1,1,locked_test_only
+Gedung Parkir,0,1,1,locked_test_only
+Grosir Pembibitan Tanaman,0,1,1,locked_test_only
+Grosir Perlengkapan Rumah Tangga,1,0,1,validation_only
+Grosir air mineral,0,1,1,locked_test_only
+Grosir produk plastik,1,0,1,validation_only
+Hipermarket,0,1,1,locked_test_only
+Industri Percetakan,1,0,1,validation_only
+Jaksa Wilayah,0,1,1,locked_test_only
+Jasa Instalasi Listrik,0,1,1,locked_test_only
+Jasa Pengeditan Video,1,0,1,validation_only
+Jasa Penitipan Kucing,0,1,1,locked_test_only
+Jasa Taksi,0,1,1,locked_test_only
+Jasa Tanaman Interior,1,0,1,validation_only
+Jasa perbaikan mesin,1,0,1,validation_only
+Kafetaria,0,1,1,locked_test_only
+Kantor Hubungan Masyarakat,1,0,1,validation_only
+Kantor Imigrasi,1,0,1,validation_only
+Kantor Pelayanan Pajak,0,1,1,locked_test_only
+Kebun Raya,1,0,1,validation_only
+Kedai Salad,0,1,1,locked_test_only
+Kedai Sup,1,0,1,validation_only
+Kerajinan,1,0,1,validation_only
+Klinik Gigi,0,1,1,locked_test_only
+Klinik Perawatan Kulit,1,0,1,validation_only
+Klub Panahan,1,0,1,validation_only
+Kolam Memancing,0,1,1,locked_test_only
+Konsultan,1,0,1,validation_only
+Konsultan Komputer,0,1,1,locked_test_only
+Konsultan Teknik,0,1,1,locked_test_only
+Kontraktor Pemasangan Interior,0,1,1,locked_test_only
+Kontraktor Umum,1,0,1,validation_only
+Kursus Komputer,1,0,1,validation_only
+Laboratorium,0,1,1,locked_test_only
+Laboratorium Medis,1,0,1,validation_only
+Lapangan Atletik,0,1,1,locked_test_only
+Lapangan Futsal,1,0,1,validation_only
+Lapangan Sepak Bola,0,1,1,locked_test_only
+Lapangan Tembak,0,1,1,locked_test_only
+Lapangan Voli,1,0,1,validation_only
+Layanan Distribusi,1,0,1,validation_only
+Layanan Kesehatan di Rumah,0,1,1,locked_test_only
+Layanan Pesan-Antar Pizza,0,1,1,locked_test_only
+Layanan Rental Mobil Salju,0,1,1,locked_test_only
+Layanan Taksi,1,0,1,validation_only
+Layanan bimbingan karier,1,0,1,validation_only
+Layanan cetak digital,1,0,1,validation_only
+Layanan dan Dukungan Komputer,0,1,1,locked_test_only
+Layanan reparasi,1,0,1,validation_only
+Lembaga Agama,1,0,1,validation_only
+Lembaga Swadaya Masyarakat (LSM),1,0,1,validation_only
+Maskapai Penerbangan,1,0,1,validation_only
+Monumen,0,1,1,locked_test_only
+Museum,1,0,1,validation_only
+Museum Pusaka,0,1,1,locked_test_only
+Organisasi Layanan & Dukungan untuk Penyandang Cacat,1,0,1,validation_only
+Organisasi Nonprofit,0,1,1,locked_test_only
+Organisasi Sukarelawan,1,0,1,validation_only
+Pabrik Baja,1,0,1,validation_only
+Paket Makanan Pokok,0,1,1,locked_test_only
+Pangkalan Truk,0,1,1,locked_test_only
+Pasar Grosir Sayur,0,1,1,locked_test_only
+Pasokan Pabrik Makanan,0,1,1,locked_test_only
+Pemasok Bahan Bangunan,1,0,1,validation_only
+Pemasok Bibit Tanaman,0,1,1,locked_test_only
+Pemasok Kolam Ikan,1,0,1,validation_only
+Pemasok Pakaian,0,1,1,locked_test_only
+Pemasok Peralatan Hidroponik,0,1,1,locked_test_only
+Pemasok Produk Kecantikan,1,0,1,validation_only
+Pemasok Semen Ready-mix,0,1,1,locked_test_only
+Pemasok bahan finishing,0,1,1,locked_test_only
+Pemasok filter air,1,0,1,validation_only
+Pemasok marmer,0,1,1,locked_test_only
+Pemasok suku cadang truk,0,1,1,locked_test_only
+Penerbit Koran,1,0,1,validation_only
+Pengembangan Bisnis Perdagangan,0,1,1,locked_test_only
+Penghasil Madu,0,1,1,locked_test_only
+Penginapan religi,0,1,1,locked_test_only
+Penyedia Layanan Internet,0,1,1,locked_test_only
+Penyewaan Sepeda Motor,1,0,1,validation_only
+Perajin furnitur,1,0,1,validation_only
+Peralatan Pertambangan,1,0,1,validation_only
+Perancang busana,1,0,1,validation_only
+Perencana Pernikahan,0,1,1,locked_test_only
+Perguruan Tinggi,1,0,1,validation_only
+Perhimpunan Pengembang Perumahan,1,0,1,validation_only
+Perkebunan Anggrek,1,0,1,validation_only
+Perkemahan Memancing,0,1,1,locked_test_only
+Perpustakaan Universitas,0,1,1,locked_test_only
+Persewaan Kostum,0,1,1,locked_test_only
+Persewaan Peralatan Kantor,0,1,1,locked_test_only
+Persewaan pondok,1,0,1,validation_only
+Perusahaan Daerah Air Minum (PDAM),0,1,1,locked_test_only
+Perusahaan Farmasi,0,1,1,locked_test_only
+Perusahaan Jasa Hak Properti,1,0,1,validation_only
+Perusahaan Listrik,0,1,1,locked_test_only
+Perusahaan Minyak & Gas Bumi,0,1,1,locked_test_only
+Perusahaan Pertambangan,1,0,1,validation_only
+Perusahaan Software,1,0,1,validation_only
+Perusahaan Truk Ekspedisi,1,0,1,validation_only
+Perusahaan investasi properti,1,0,1,validation_only
+Perusahaan tambang emas,1,0,1,validation_only
+Peternakan Ayam,0,1,1,locked_test_only
+Peternakan Ikan,0,1,1,locked_test_only
+Praktisi Pengobatan Alternatif,1,0,1,validation_only
+Praktisi perawat,0,1,1,locked_test_only
+Prasmanan Kue Manis dan Makanan Penutup,1,0,1,validation_only
+Produsen Makanan Beku,0,1,1,locked_test_only
+Produsen Pakaian Olahraga,1,0,1,validation_only
+Produsen batu bata,0,1,1,locked_test_only
+Pusat Hiburan Anak-Anak,0,1,1,locked_test_only
+Pusat Hiburan Video Game Arkade,0,1,1,locked_test_only
+Pusat Kebugaran,0,1,1,locked_test_only
+Pusat Pembelajaran,1,0,1,validation_only
+Pusat Pemeriksaan Fisik,0,1,1,locked_test_only
+Pusat jaringan komputer,1,0,1,validation_only
+Pusat pelatihan,0,1,1,locked_test_only
+Restoran Arab,1,0,1,validation_only
+Restoran Asia,0,1,1,locked_test_only
+Restoran Betawi,0,1,1,locked_test_only
+Restoran Hidangan Ayam,1,0,1,validation_only
+Restoran Keluarga,0,1,1,locked_test_only
+Restoran Makanan Sehat,0,1,1,locked_test_only
+Restoran Pempek,0,1,1,locked_test_only
+Restoran atau Kafe,0,1,1,locked_test_only
+Restoran cendol,0,1,1,locked_test_only
+Restoran takeaway ayam goreng,1,0,1,validation_only
+Ruang Serbaguna,0,1,1,locked_test_only
+Ruang berkarya,0,1,1,locked_test_only
+Rumah Berhantu,0,1,1,locked_test_only
+Rumah Lelang,0,1,1,locked_test_only
+Rumah Sakit Umum,0,1,1,locked_test_only
+Rumah berlibur,0,1,1,locked_test_only
+Rumah berlibur bebas rokok,0,1,1,locked_test_only
+Salon Hewan Peliharaan,1,0,1,validation_only
+Salon bulu mata,1,0,1,validation_only
+Sekolah Negeri,0,1,1,locked_test_only
+Sekolah Swasta,0,1,1,locked_test_only
+Sekolah asrama,0,1,1,locked_test_only
+Sekolah matematika,0,1,1,locked_test_only
+Spa Perawatan Wajah,1,0,1,validation_only
+Stasiun pemadam kebakaran,1,0,1,validation_only
+Studio Pilates,1,0,1,validation_only
+Taman Bermain Dalam Ruangan,0,1,1,locked_test_only
+Taman bermain papan seluncur,0,1,1,locked_test_only
+Teknisi Telekomunikasi,0,1,1,locked_test_only
+Tempat Pembuangan Sampah,0,1,1,locked_test_only
+Tempat Pengisian Baterai Ponsel,0,1,1,locked_test_only
+Tempat Penjualan Teh,1,0,1,validation_only
+Tempat acara,1,0,1,validation_only
+Tempat cuci motor,0,1,1,locked_test_only
+Terapis Karyawan,0,1,1,locked_test_only
+Toko Aksesori Mobil,0,1,1,locked_test_only
+Toko Aksesori Pakaian,0,1,1,locked_test_only
+Toko Ban Bekas,0,1,1,locked_test_only
+Toko Boneka,0,1,1,locked_test_only
+Toko Bubble Tea,1,0,1,validation_only
+Toko Buku Agama,1,0,1,validation_only
+Toko Burung,0,1,1,locked_test_only
+Toko Cat,0,1,1,locked_test_only
+Toko Gitar,1,0,1,validation_only
+Toko Gorden,0,1,1,locked_test_only
+Toko Internet,1,0,1,validation_only
+Toko Jam,1,0,1,validation_only
+Toko Kain Sutra,0,1,1,locked_test_only
+Toko Kaos Custom,1,0,1,validation_only
+Toko Knalpot,1,0,1,validation_only
+Toko Makanan Alami,1,0,1,validation_only
+Toko Makanan Jepang,1,0,1,validation_only
+Toko Mesin Jahit,0,1,1,locked_test_only
+Toko Motorsport,0,1,1,locked_test_only
+Toko Olahraga Panahan,1,0,1,validation_only
+Toko Organik,1,0,1,validation_only
+Toko Pakaian Bayi,0,1,1,locked_test_only
+Toko Pakaian Olahraga,0,1,1,locked_test_only
+Toko Pakaian Pantai,0,1,1,locked_test_only
+Toko Pakaian Seragam,1,0,1,validation_only
+Toko Peralatan Olahraga,1,0,1,validation_only
+Toko Peralatan dan Bahan Kue,0,1,1,locked_test_only
+Toko Perbaikan Ponsel,0,1,1,locked_test_only
+Toko Perlengkapan Bayi,0,1,1,locked_test_only
+Toko Perlengkapan Hewan Peliharaan,1,0,1,validation_only
+Toko Perlengkapan Medis,1,0,1,validation_only
+Toko Pertanian,1,0,1,validation_only
+Toko Reklame,0,1,1,locked_test_only
+Toko Reparasi Sepatu,0,1,1,locked_test_only
+Toko Reparasi Truk,0,1,1,locked_test_only
+Toko Sepeda Bekas,0,1,1,locked_test_only
+Toko Sepeda Motor,1,0,1,validation_only
+Toko Ski,0,1,1,locked_test_only
+Toko Stempel,0,1,1,locked_test_only
+Toko grosir,1,0,1,validation_only
+Toko pakaian batik,0,1,1,locked_test_only
+Toko suku cadang traktor,1,0,1,validation_only
+Tukang Bersih-Bersih,1,0,1,validation_only
+Universitas Swasta,1,0,1,validation_only
+Vihara,0,1,1,locked_test_only
+Warnet,0,1,1,locked_test_only

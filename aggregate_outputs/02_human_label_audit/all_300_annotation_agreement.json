@@ -1,0 +1,7 @@
+{
+  "group": "all_300_locked_test_audit",
+  "n_reviews": 300,
+  "percent_agreement_before_adjudication": 0.8466666666666667,
+  "cohen_kappa_before_adjudication": 0.7519591631317851,
+  "n_needing_adjudication": 46
+}

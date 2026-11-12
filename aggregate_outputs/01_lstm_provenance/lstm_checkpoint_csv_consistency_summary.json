@@ -1,0 +1,20 @@
+{
+  "scope": "full_labeled_dataset",
+  "n_rows": 7015,
+  "label_agreement": 1.0,
+  "n_label_mismatches": 0,
+  "max_abs_probability_delta": 2.9793548628198607e-08,
+  "mean_abs_probability_delta": 3.6610508622753327e-09,
+  "n_rows_delta_gt_1e_4": 0,
+  "n_rows_delta_gt_1e_3": 0,
+  "checkpoint_probability_order": [
+    "positif",
+    "netral",
+    "negatif"
+  ],
+  "saved_probability_columns_in_checkpoint_order": [
+    "prob_positif",
+    "prob_netral",
+    "prob_negatif"
+  ]
+}

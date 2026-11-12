@@ -1,0 +1,37 @@
+﻿{
+    "release_note":  "Restricted release copy. Internal protocol hash is intentionally omitted.",
+    "six_feature_names":  [
+                              "svm_prob_negatif",
+                              "svm_prob_netral",
+                              "svm_prob_positif",
+                              "bert_prob_negatif",
+                              "bert_prob_netral",
+                              "bert_prob_positif"
+                          ],
+    "twelve_feature_names":  [
+                                 "svm_prob_negatif",
+                                 "svm_prob_netral",
+                                 "svm_prob_positif",
+                                 "bert_prob_negatif",
+                                 "bert_prob_netral",
+                                 "bert_prob_positif",
+                                 "svm_confidence",
+                                 "bert_confidence",
+                                 "svm_entropy",
+                                 "bert_entropy",
+                                 "pred_disagreement",
+                                 "prob_disagreement"
+                             ],
+    "six_is_subset_of_twelve":  true,
+    "source_xgboost_config":  {
+                                  "objective":  "multi:softprob",
+                                  "num_class":  3,
+                                  "n_estimators":  100,
+                                  "max_depth":  3,
+                                  "learning_rate":  0.05,
+                                  "subsample":  0.8,
+                                  "eval_metric":  "mlogloss",
+                                  "n_jobs":  -1,
+                                  "verbosity":  0
+                              }
+}

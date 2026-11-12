@@ -1,0 +1,136 @@
+﻿seed,model_key,model,true_manual_label,predicted_label,n_reviews
+42,svm,SVM,negatif,negatif,42
+42,svm,SVM,negatif,netral,19
+42,svm,SVM,negatif,positif,10
+42,svm,SVM,netral,negatif,22
+42,svm,SVM,netral,netral,41
+42,svm,SVM,netral,positif,9
+42,svm,SVM,positif,negatif,15
+42,svm,SVM,positif,netral,36
+42,svm,SVM,positif,positif,106
+42,indobert,IndoBERT,negatif,negatif,47
+42,indobert,IndoBERT,negatif,netral,18
+42,indobert,IndoBERT,negatif,positif,6
+42,indobert,IndoBERT,netral,negatif,18
+42,indobert,IndoBERT,netral,netral,42
+42,indobert,IndoBERT,netral,positif,12
+42,indobert,IndoBERT,positif,negatif,8
+42,indobert,IndoBERT,positif,netral,38
+42,indobert,IndoBERT,positif,positif,111
+42,wa_svm_bert,WA (SVM+BERT),negatif,negatif,46
+42,wa_svm_bert,WA (SVM+BERT),negatif,netral,18
+42,wa_svm_bert,WA (SVM+BERT),negatif,positif,7
+42,wa_svm_bert,WA (SVM+BERT),netral,negatif,20
+42,wa_svm_bert,WA (SVM+BERT),netral,netral,41
+42,wa_svm_bert,WA (SVM+BERT),netral,positif,11
+42,wa_svm_bert,WA (SVM+BERT),positif,negatif,8
+42,wa_svm_bert,WA (SVM+BERT),positif,netral,38
+42,wa_svm_bert,WA (SVM+BERT),positif,positif,111
+42,xgboost,XGBoost,negatif,negatif,51
+42,xgboost,XGBoost,negatif,netral,17
+42,xgboost,XGBoost,negatif,positif,3
+42,xgboost,XGBoost,netral,negatif,28
+42,xgboost,XGBoost,netral,netral,39
+42,xgboost,XGBoost,netral,positif,5
+42,xgboost,XGBoost,positif,negatif,24
+42,xgboost,XGBoost,positif,netral,45
+42,xgboost,XGBoost,positif,positif,88
+42,calibrated_xgboost,Calibrated XGBoost,negatif,negatif,47
+42,calibrated_xgboost,Calibrated XGBoost,negatif,netral,19
+42,calibrated_xgboost,Calibrated XGBoost,negatif,positif,5
+42,calibrated_xgboost,Calibrated XGBoost,netral,negatif,22
+42,calibrated_xgboost,Calibrated XGBoost,netral,netral,41
+42,calibrated_xgboost,Calibrated XGBoost,netral,positif,9
+42,calibrated_xgboost,Calibrated XGBoost,positif,negatif,15
+42,calibrated_xgboost,Calibrated XGBoost,positif,netral,38
+42,calibrated_xgboost,Calibrated XGBoost,positif,positif,104
+52,svm,SVM,negatif,negatif,42
+52,svm,SVM,negatif,netral,19
+52,svm,SVM,negatif,positif,10
+52,svm,SVM,netral,negatif,24
+52,svm,SVM,netral,netral,38
+52,svm,SVM,netral,positif,10
+52,svm,SVM,positif,negatif,14
+52,svm,SVM,positif,netral,35
+52,svm,SVM,positif,positif,108
+52,indobert,IndoBERT,negatif,negatif,46
+52,indobert,IndoBERT,negatif,netral,19
+52,indobert,IndoBERT,negatif,positif,6
+52,indobert,IndoBERT,netral,negatif,21
+52,indobert,IndoBERT,netral,netral,40
+52,indobert,IndoBERT,netral,positif,11
+52,indobert,IndoBERT,positif,negatif,11
+52,indobert,IndoBERT,positif,netral,38
+52,indobert,IndoBERT,positif,positif,108
+52,wa_svm_bert,WA (SVM+BERT),negatif,negatif,45
+52,wa_svm_bert,WA (SVM+BERT),negatif,netral,19
+52,wa_svm_bert,WA (SVM+BERT),negatif,positif,7
+52,wa_svm_bert,WA (SVM+BERT),netral,negatif,22
+52,wa_svm_bert,WA (SVM+BERT),netral,netral,40
+52,wa_svm_bert,WA (SVM+BERT),netral,positif,10
+52,wa_svm_bert,WA (SVM+BERT),positif,negatif,13
+52,wa_svm_bert,WA (SVM+BERT),positif,netral,35
+52,wa_svm_bert,WA (SVM+BERT),positif,positif,109
+52,xgboost,XGBoost,negatif,negatif,50
+52,xgboost,XGBoost,negatif,netral,18
+52,xgboost,XGBoost,negatif,positif,3
+52,xgboost,XGBoost,netral,negatif,26
+52,xgboost,XGBoost,netral,netral,41
+52,xgboost,XGBoost,netral,positif,5
+52,xgboost,XGBoost,positif,negatif,25
+52,xgboost,XGBoost,positif,netral,45
+52,xgboost,XGBoost,positif,positif,87
+52,calibrated_xgboost,Calibrated XGBoost,negatif,negatif,45
+52,calibrated_xgboost,Calibrated XGBoost,negatif,netral,18
+52,calibrated_xgboost,Calibrated XGBoost,negatif,positif,8
+52,calibrated_xgboost,Calibrated XGBoost,netral,negatif,22
+52,calibrated_xgboost,Calibrated XGBoost,netral,netral,42
+52,calibrated_xgboost,Calibrated XGBoost,netral,positif,8
+52,calibrated_xgboost,Calibrated XGBoost,positif,negatif,15
+52,calibrated_xgboost,Calibrated XGBoost,positif,netral,35
+52,calibrated_xgboost,Calibrated XGBoost,positif,positif,107
+62,svm,SVM,negatif,negatif,42
+62,svm,SVM,negatif,netral,19
+62,svm,SVM,negatif,positif,10
+62,svm,SVM,netral,negatif,24
+62,svm,SVM,netral,netral,38
+62,svm,SVM,netral,positif,10
+62,svm,SVM,positif,negatif,15
+62,svm,SVM,positif,netral,36
+62,svm,SVM,positif,positif,106
+62,indobert,IndoBERT,negatif,negatif,46
+62,indobert,IndoBERT,negatif,netral,19
+62,indobert,IndoBERT,negatif,positif,6
+62,indobert,IndoBERT,netral,negatif,21
+62,indobert,IndoBERT,netral,netral,40
+62,indobert,IndoBERT,netral,positif,11
+62,indobert,IndoBERT,positif,negatif,12
+62,indobert,IndoBERT,positif,netral,40
+62,indobert,IndoBERT,positif,positif,105
+62,wa_svm_bert,WA (SVM+BERT),negatif,negatif,45
+62,wa_svm_bert,WA (SVM+BERT),negatif,netral,20
+62,wa_svm_bert,WA (SVM+BERT),negatif,positif,6
+62,wa_svm_bert,WA (SVM+BERT),netral,negatif,23
+62,wa_svm_bert,WA (SVM+BERT),netral,netral,40
+62,wa_svm_bert,WA (SVM+BERT),netral,positif,9
+62,wa_svm_bert,WA (SVM+BERT),positif,negatif,13
+62,wa_svm_bert,WA (SVM+BERT),positif,netral,35
+62,wa_svm_bert,WA (SVM+BERT),positif,positif,109
+62,xgboost,XGBoost,negatif,negatif,52
+62,xgboost,XGBoost,negatif,netral,16
+62,xgboost,XGBoost,negatif,positif,3
+62,xgboost,XGBoost,netral,negatif,28
+62,xgboost,XGBoost,netral,netral,38
+62,xgboost,XGBoost,netral,positif,6
+62,xgboost,XGBoost,positif,negatif,22
+62,xgboost,XGBoost,positif,netral,45
+62,xgboost,XGBoost,positif,positif,90
+62,calibrated_xgboost,Calibrated XGBoost,negatif,negatif,48
+62,calibrated_xgboost,Calibrated XGBoost,negatif,netral,17
+62,calibrated_xgboost,Calibrated XGBoost,negatif,positif,6
+62,calibrated_xgboost,Calibrated XGBoost,netral,negatif,23
+62,calibrated_xgboost,Calibrated XGBoost,netral,netral,41
+62,calibrated_xgboost,Calibrated XGBoost,netral,positif,8
+62,calibrated_xgboost,Calibrated XGBoost,positif,negatif,12
+62,calibrated_xgboost,Calibrated XGBoost,positif,netral,38
+62,calibrated_xgboost,Calibrated XGBoost,positif,positif,107

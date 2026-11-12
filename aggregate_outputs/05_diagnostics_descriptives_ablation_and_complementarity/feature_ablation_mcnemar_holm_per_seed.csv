@@ -1,0 +1,4 @@
+seed,reference_target,contrast,n,delta_accuracy_twelve_minus_six,both_correct,twelve_only_correct,six_only_correct,both_incorrect,discordant_n,exact_raw_p_value,holm_rank,holm_adjusted_p_value,holm_step_threshold,holm_reject_alpha_0_05
+42,validation_silver,twelve_feature versus six_feature,1170,0.0,976,2,2,190,4,1.0,3,1.0,0.05,False
+52,validation_silver,twelve_feature versus six_feature,1170,-0.002564102564102555,980,2,5,183,7,0.453125,2,0.90625,0.025,False
+62,validation_silver,twelve_feature versus six_feature,1170,0.00512820512820511,969,7,1,193,8,0.0703125,1,0.2109375,0.016666666666666666,False

@@ -1,0 +1,25 @@
+seed,config_key,model_key,model,score_key,aurc_discrete_mean_selective_risk,overall_silver_error_rate
+42,calibrated_xgboost_base_disagreement,calibrated_xgboost,Calibrated XGBoost,base_disagreement,0.040627508724319875,0.13054607508532423
+52,calibrated_xgboost_base_disagreement,calibrated_xgboost,Calibrated XGBoost,base_disagreement,0.043338491148254187,0.1407849829351536
+62,calibrated_xgboost_base_disagreement,calibrated_xgboost,Calibrated XGBoost,base_disagreement,0.04629015414759797,0.14334470989761092
+42,calibrated_xgboost_high_entropy,calibrated_xgboost,Calibrated XGBoost,entropy,0.0412747818595758,0.13054607508532423
+52,calibrated_xgboost_high_entropy,calibrated_xgboost,Calibrated XGBoost,entropy,0.04445312157654617,0.1407849829351536
+62,calibrated_xgboost_high_entropy,calibrated_xgboost,Calibrated XGBoost,entropy,0.047172485959833955,0.14334470989761092
+42,calibrated_xgboost_low_confidence,calibrated_xgboost,Calibrated XGBoost,confidence,0.040907633932662266,0.13054607508532423
+52,calibrated_xgboost_low_confidence,calibrated_xgboost,Calibrated XGBoost,confidence,0.04307056872935265,0.1407849829351536
+62,calibrated_xgboost_low_confidence,calibrated_xgboost,Calibrated XGBoost,confidence,0.04609067728325874,0.14334470989761092
+42,calibrated_xgboost_low_margin,calibrated_xgboost,Calibrated XGBoost,margin,0.041029587446577476,0.13054607508532423
+52,calibrated_xgboost_low_margin,calibrated_xgboost,Calibrated XGBoost,margin,0.042880445282646736,0.1407849829351536
+62,calibrated_xgboost_low_margin,calibrated_xgboost,Calibrated XGBoost,margin,0.0456346524615649,0.14334470989761092
+42,indobert_low_confidence,indobert,IndoBERT,confidence,0.043864060581759935,0.15358361774744028
+52,indobert_low_confidence,indobert,IndoBERT,confidence,0.041589588906302107,0.15784982935153583
+62,indobert_low_confidence,indobert,IndoBERT,confidence,0.044635759675812556,0.1689419795221843
+42,svm_low_confidence,svm,SVM,confidence,0.057059937433204776,0.15870307167235495
+52,svm_low_confidence,svm,SVM,confidence,0.05754936421597225,0.16382252559726962
+62,svm_low_confidence,svm,SVM,confidence,0.05802658324309171,0.16296928327645052
+42,wa_low_confidence,wa_svm_bert,WA (SVM+BERT),confidence,0.04329806659013863,0.13907849829351535
+52,wa_low_confidence,wa_svm_bert,WA (SVM+BERT),confidence,0.0417544841712617,0.13054607508532423
+62,wa_low_confidence,wa_svm_bert,WA (SVM+BERT),confidence,0.0415583148215743,0.14249146757679182
+42,xgboost_low_confidence,xgboost,XGBoost,confidence,0.0579499258202935,0.18430034129692832
+52,xgboost_low_confidence,xgboost,XGBoost,confidence,0.061742136928526446,0.181740614334471
+62,xgboost_low_confidence,xgboost,XGBoost,confidence,0.06003529975514217,0.18430034129692832

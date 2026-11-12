@@ -1,0 +1,9 @@
+dataset_split,feature,n_nonmissing,n_true,share_true_pct,n_missing
+validation,has_emoji,1170,164,14.017094017094017,0
+validation,has_negation,1170,157,13.418803418803419,0
+validation,has_elongation,1170,145,12.393162393162394,0
+validation,has_uppercase,1170,72,6.153846153846154,0
+locked_test,has_emoji,1172,170,14.505119453924914,0
+locked_test,has_negation,1172,147,12.542662116040956,0
+locked_test,has_elongation,1172,159,13.56655290102389,0
+locked_test,has_uppercase,1172,66,5.631399317406143,0

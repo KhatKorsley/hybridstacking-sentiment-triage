@@ -1,0 +1,43 @@
+﻿{
+    "release_note": "Restricted release copy. Checkpoint, vocabulary, labelled-data paths, and source hashes are intentionally omitted.",
+    "checkpoint_config": {
+        "vocab_size": 8843,
+        "embedding_dim": 128,
+        "hidden_dim": 128,
+        "output_dim": 3,
+        "n_layers": 2,
+        "bidirectional": true,
+        "dropout": 0.3
+    },
+    "label_map": {
+        "0": "positif",
+        "1": "netral",
+        "2": "negatif"
+    },
+    "vocabulary_length": 8843,
+    "vocabulary_length_matches_checkpoint": true,
+    "parameter_count": 1824643,
+    "state_dict_tensor_shapes": {
+        "embedding.weight": [8843, 128],
+        "lstm.weight_ih_l0": [512, 128],
+        "lstm.weight_hh_l0": [512, 128],
+        "lstm.bias_ih_l0": [512],
+        "lstm.bias_hh_l0": [512],
+        "lstm.weight_ih_l0_reverse": [512, 128],
+        "lstm.weight_hh_l0_reverse": [512, 128],
+        "lstm.bias_ih_l0_reverse": [512],
+        "lstm.bias_hh_l0_reverse": [512],
+        "lstm.weight_ih_l1": [512, 256],
+        "lstm.weight_hh_l1": [512, 128],
+        "lstm.bias_ih_l1": [512],
+        "lstm.bias_hh_l1": [512],
+        "lstm.weight_ih_l1_reverse": [512, 256],
+        "lstm.weight_hh_l1_reverse": [512, 128],
+        "lstm.bias_ih_l1_reverse": [512],
+        "lstm.bias_hh_l1_reverse": [512],
+        "fc1.weight": [128, 256],
+        "fc1.bias": [128],
+        "fc2.weight": [3, 128],
+        "fc2.bias": [3]
+    }
+}

@@ -1,0 +1,36 @@
+# Restricted source data and annotations
+data/
+**/*private*/
+**/*_private.*
+**/*audit*.xlsx
+
+# Models, checkpoints, and intermediate artifacts
+models/
+artifacts/
+cache/
+**/*.pt
+**/*.pth
+**/*.pkl
+**/*.joblib
+**/*.npz
+**/*.parquet
+
+# Row-level prediction and audit outputs
+test_predictions.csv
+**/*predictions_per_seed*.csv
+**/*validation_predictions*.csv
+**/*probability_pairs*.csv
+**/*consistency_rows*.csv
+**/*largest_shift_cases*.csv
+**/*hard_label_transitions*.csv
+
+# Local environments and notebook checkpoints
+.env
+.venv/
+venv/
+__pycache__/
+**/.ipynb_checkpoints/
+
+# Backups and obsolete release files
+**/(old)*
+**/*_old.*

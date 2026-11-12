@@ -1,0 +1,18 @@
+{
+  "dataset": "indonlp/indonlu",
+  "configuration": "smsa",
+  "split": "test",
+  "n_test": 500,
+  "label_values": [
+    0,
+    1,
+    2
+  ],
+  "dataset_label_feature": "ClassLabel(names=['positive', 'neutral', 'negative'], id=None)",
+  "checkpoint_label_map": {
+    "0": "positif",
+    "1": "netral",
+    "2": "negatif"
+  },
+  "n_sequences_longer_than_128_tokens": 0
+}

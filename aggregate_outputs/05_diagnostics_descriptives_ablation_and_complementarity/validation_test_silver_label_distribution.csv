@@ -1,0 +1,7 @@
+silver_label,n,dataset_split,share_pct
+negatif,138,locked_test,11.774744027303754
+negatif,148,validation,12.649572649572649
+netral,319,locked_test,27.218430034129693
+netral,301,validation,25.726495726495724
+positif,715,locked_test,61.00682593856656
+positif,721,validation,61.623931623931625

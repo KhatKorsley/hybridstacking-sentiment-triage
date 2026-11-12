@@ -1,0 +1,153 @@
+﻿{
+    "purpose": "Restricted code-inspection provenance and checkpoint verification. No LSTM retraining or relabelling was performed.",
+    "source_static_audit": {
+        "source_notebook_role": "Archived LSTM silver-labelling workflow represented by the release inspection notebook.",
+        "smsa_loaded_in_source": true,
+        "smsa_test_split_loaded_in_source": true,
+        "explicit_smsa_test_loader_found": false,
+        "shallow_best_state_copy_pattern_found": true,
+        "historical_inference_has_max_len_truncation": false
+    },
+    "checkpoint_summary": {
+        "checkpoint_config": {
+            "vocab_size": 8843,
+            "embedding_dim": 128,
+            "hidden_dim": 128,
+            "output_dim": 3,
+            "n_layers": 2,
+            "bidirectional": true,
+            "dropout": 0.3
+        },
+        "label_map": {
+            "0": "positif",
+            "1": "netral",
+            "2": "negatif"
+        },
+        "vocabulary_length": 8843,
+        "vocabulary_length_matches_checkpoint": true,
+        "parameter_count": 1824643,
+        "state_dict_tensor_shapes": {
+            "embedding.weight": [
+                8843,
+                128
+            ],
+            "lstm.weight_ih_l0": [
+                512,
+                128
+            ],
+            "lstm.weight_hh_l0": [
+                512,
+                128
+            ],
+            "lstm.bias_ih_l0": [
+                512
+            ],
+            "lstm.bias_hh_l0": [
+                512
+            ],
+            "lstm.weight_ih_l0_reverse": [
+                512,
+                128
+            ],
+            "lstm.weight_hh_l0_reverse": [
+                512,
+                128
+            ],
+            "lstm.bias_ih_l0_reverse": [
+                512
+            ],
+            "lstm.bias_hh_l0_reverse": [
+                512
+            ],
+            "lstm.weight_ih_l1": [
+                512,
+                256
+            ],
+            "lstm.weight_hh_l1": [
+                512,
+                128
+            ],
+            "lstm.bias_ih_l1": [
+                512
+            ],
+            "lstm.bias_hh_l1": [
+                512
+            ],
+            "lstm.weight_ih_l1_reverse": [
+                512,
+                256
+            ],
+            "lstm.weight_hh_l1_reverse": [
+                512,
+                128
+            ],
+            "lstm.bias_ih_l1_reverse": [
+                512
+            ],
+            "lstm.bias_hh_l1_reverse": [
+                512
+            ],
+            "fc1.weight": [
+                128,
+                256
+            ],
+            "fc1.bias": [
+                128
+            ],
+            "fc2.weight": [
+                3,
+                128
+            ],
+            "fc2.bias": [
+                3
+            ]
+        }
+    },
+    "checkpoint_csv_consistency": {
+        "scope": "full_labeled_dataset",
+        "n_rows": 7015,
+        "label_agreement": 1.0,
+        "n_label_mismatches": 0,
+        "max_abs_probability_delta": 2.9793548628198607e-08,
+        "mean_abs_probability_delta": 3.6610508622753327e-09,
+        "n_rows_delta_gt_1e_4": 0,
+        "n_rows_delta_gt_1e_3": 0,
+        "checkpoint_probability_order": [
+            "positif",
+            "netral",
+            "negatif"
+        ],
+        "saved_probability_columns_in_checkpoint_order": [
+            "prob_positif",
+            "prob_netral",
+            "prob_negatif"
+        ]
+    },
+    "smsa_test_evaluation": {
+        "evaluation_scope": "SmSA held-out test split only",
+        "n_test": 500,
+        "accuracy": 0.792,
+        "macro_f1": 0.7293960899475215,
+        "weighted_f1": 0.7781391630638713,
+        "class_order": [
+            "positif",
+            "netral",
+            "negatif"
+        ],
+        "true_label_distribution": {
+            "positif": 208,
+            "netral": 88,
+            "negatif": 204
+        },
+        "predicted_label_distribution": {
+            "positif": 202,
+            "netral": 42,
+            "negatif": 256
+        }
+    },
+    "interpretation_notes": [
+        "SmSA test metrics are source-domain evidence and must not be reported as Google Maps performance.",
+        "Google Maps downstream model metrics remain agreement with LSTM silver labels unless evaluated against final manual labels.",
+        "A shallow best_model_state copy pattern in the source notebook requires careful checkpoint wording in the manuscript."
+    ]
+}

@@ -1,0 +1,5 @@
+comparison,model_key,seed_n,tvd_mean,tvd_sample_sd
+oof_train_to_locked_test_ensemble,indobert,3,0.02064482453968494,0.004855518252079899
+oof_train_to_locked_test_ensemble,svm,3,0.014444925670110811,0.002700579839798307
+oof_train_to_validation_ensemble,indobert,3,0.014844627834142074,0.002169702628606324
+oof_train_to_validation_ensemble,svm,3,0.015539350441982602,0.0036532329131856956
